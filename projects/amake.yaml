@@ -1,0 +1,6 @@
+name: amake
+description:
+  you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
+category: Arduino & Pic related
+subcategory: Projects
+url: https://github.com/pavelmc/amake

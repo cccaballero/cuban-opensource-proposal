@@ -1,0 +1,6 @@
+name: Si5351
+description:
+  an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
+category: Arduino & Pic related
+subcategory: Libraries
+url: https://github.com/pavelmc/Si5351mcu
