@@ -11,12 +11,12 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 {%- if project.category != ns.category: %}
 {%- set ns.category = project.category %}
 
-##{{project.category}}
+## {{project.category}}
 {% endif %}
 {%- if project.subcategory and project.subcategory != ns.subcategory: %}
 {%- set ns.subcategory = project.subcategory %}
 
-###{{project.subcategory}}
+### {{project.subcategory}}
 {% endif %}
 - [{{project.name}}]({{project.url}}): {{project.description}}
 {%- endfor %}

@@ -7,18 +7,18 @@
 
 Awesome list of Cuban open source projects. Just to know what is being openly developed in Cuba...
 
-##Android Apps
+## Android Apps
 
 - [BacheSMS](https://github.com/n3omaster/BacheSMS): Send SMS from Nauta Email.
 - [BankDroid](https://github.com/rlazom/BankDroid): Transfermovil messages' cool interpreter.
 
-##Arduino & Pic related
+## Arduino & Pic related
 
 
-###Libraries
+### Libraries
 
 - [Si5351](https://github.com/pavelmc/Si5351mcu): an alternative library for the Si5351 etherkit official one, very small and with more clean signals.
 
-###Projects
+### Projects
 
 - [amake](https://github.com/pavelmc/amake): you loves arduino but hate the Arduino IDE, no problem you can use your preffered editor and use amake under the hood to compile and upload the code. (Linux only)
